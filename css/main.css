@@ -12,6 +12,28 @@
   color: #fff;
 }
 
+body{
+	
+	width:calc(100vw-100%);
+	
+}
+
+/*#jack{
+	
+	width:100vw!important;
+	position:fixed;
+	top:0;
+	
+}
+
+.jack{
+	
+	width:100vw!important;
+	position:fixed;
+	top:0;
+	
+}*/
+
 ::selection {
   background-color: #691cff;
   color: #fff;
